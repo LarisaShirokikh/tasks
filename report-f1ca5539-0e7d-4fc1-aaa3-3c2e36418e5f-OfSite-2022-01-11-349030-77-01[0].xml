@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extract_about_property_room>
+  <details_statement>
+    <group_top_requisites>
+      <organ_registr_rights>Филиал федерального государственного бюджетного учреждения «Федеральная кадастровая палата Федеральной службы государственной регистрации, кадастра и картографии» по Москве</organ_registr_rights>
+      <date_formation>2022-01-11</date_formation>
+      <registration_number>КУВИ-001/2022-1272872</registration_number>
+    </group_top_requisites>
+  </details_statement>
+  <details_request>
+    <date_received_request>2022-01-11</date_received_request>
+    <date_receipt_request_reg_authority_rights>2022-01-11</date_receipt_request_reg_authority_rights>
+  </details_request>
+  <room_record>
+    <record_info>
+      <registration_date>2016-02-08T12:16:20+03:00</registration_date>
+    </record_info>
+    <object>
+      <common_data>
+        <cad_number>77:17:0120316:6261</cad_number>
+        <quarter_cad_number>77:17:0120316</quarter_cad_number>
+        <type>
+          <code>002001003000</code>
+          <value>room_record</value>
+        </type>
+      </common_data>
+    </object>
+    <cad_links>
+      <parent_cad_number>
+        <cad_number>77:17:0120316:6251</cad_number>
+      </parent_cad_number>
+    </cad_links>
+    <params>
+      <area>60.9</area>
+      <name>квартира</name>
+      <purpose>
+        <code>206002000000</code>
+        <value>Жилое</value>
+      </purpose>
+      <type>
+        <code>205001000000</code>
+        <value>Квартира</value>
+      </type>
+      <common_property>false</common_property>
+      <service>false</service>
+    </params>
+    <address_room>
+      <address>
+        <address_type>
+          <code>01</code>
+          <value>Установленный</value>
+        </address_type>
+        <address>
+          <address_fias>
+            <level_settlement>
+              <okato>45297574000</okato>
+              <kladr>77017000000002900</kladr>
+              <postal_code>108801</postal_code>
+              <region>
+                <code>77</code>
+                <value>Москва</value>
+              </region>
+              <district>
+                <type_district>поселение</type_district>
+                <name_district>Сосенское</name_district>
+              </district>
+            </level_settlement>
+            <detailed_level>
+              <street>
+                <type_street>улица</type_street>
+                <name_street>Александры Монаховой</name_street>
+              </street>
+              <level1>
+                <name_level1>109</name_level1>
+              </level1>
+              <level2>
+                <name_level2>1</name_level2>
+              </level2>
+              <apartment>
+                <name_apartment>130</name_apartment>
+              </apartment>
+            </detailed_level>
+          </address_fias>
+          <readable_address>г. Москва, п. Сосенское, ул. Александры Монаховой, Дом 109, к.1, Квартира 130</readable_address>
+        </address>
+        <location>
+          <okato>45297574000</okato>
+          <region>
+            <code>77</code>
+            <value>Москва</value>
+          </region>
+          <position_description>г. Москва, п. Сосенское, ул. Александры Монаховой, Дом 109, к.1, Квартира 130</position_description>
+        </location>
+      </address>
+    </address_room>
+    <cad_works>
+      <cad_work>
+        <fio_cad_ingineer>
+          <surname>Кузнецов</surname>
+          <name>Андрей</name>
+          <patronymic>Витальевич</patronymic>
+        </fio_cad_ingineer>
+      </cad_work>
+    </cad_works>
+    <location_in_build>
+      <level>
+        <floor_type>
+          <code>01</code>
+          <value>Этаж</value>
+        </floor_type>
+        <floor>2</floor>
+        <plans>
+          <plan>
+            <file_link>/10.77.140.200/ArchivOTI/XX_XX/Кузнецов Андрей Витальевич/9030/9030750_E/67209430_130 кв.jpg</file_link>
+            <file_ref>
+              <file_storage_path>
+                <path>08ad6b1b-23f7-4cc9-94f2-0bd387a0ade4/0ea0141c-4502-4fb7-82d6-dbb757617087/EXT_FILE</path>
+              </file_storage_path>
+            </file_ref>
+          </plan>
+          <plan>
+            <file_link>/10.77.140.200/ArchivOTI/XX_XX/Кузнецов Андрей Витальевич/9030/9030750_E/67209430_130 кв_20160205111912.jpg</file_link>
+            <file_ref>
+              <file_storage_path>
+                <path>92012f8c-11b4-4003-8656-33d36334b82e/3bbd2879-f0b9-4be6-9a4f-7ac4e20ac206/EXT_FILE</path>
+              </file_storage_path>
+            </file_ref>
+          </plan>
+        </plans>
+      </level>
+    </location_in_build>
+    <cost>
+      <value>6741352.91</value>
+    </cost>
+    <special_notes>Сведения, необходимые для заполнения разделa: 9 - Сведения о части (частях) помещения, отсутствуют.</special_notes>
+  </room_record>
+  <right_records>
+    <right_record>
+      <record_info>
+        <registration_date>2016-04-07T12:26:05+03:00</registration_date>
+      </record_info>
+      <right_data>
+        <right_type>
+          <code>001001000000</code>
+          <value>Собственность</value>
+        </right_type>
+        <right_number>77-77/008-77/008/027/2016-2415/1</right_number>
+      </right_data>
+      <right_holders>
+        <right_holder>
+          <individual>
+            <surname>Широких</surname>
+            <name>Лариса</name>
+            <patronymic>Алексеевна</patronymic>
+            <birth_date>1980-10-11</birth_date>
+            <birth_place>гор. Красноярск</birth_place>
+            <citizenship>
+              <person_citizenship_country>
+                <citizenship_country>
+                  <value>Российской Федерации</value>
+                </citizenship_country>
+              </person_citizenship_country>
+            </citizenship>
+            <snils>114-408-412 16</snils>
+            <identity_doc>
+              <document_code>
+                <code>008001001000</code>
+                <value>Паспорт гражданина Российской Федерации</value>
+              </document_code>
+              <document_series>04 08</document_series>
+              <document_number>696460</document_number>
+              <document_date>2008-12-31</document_date>
+              <document_issuer>Отделением УФМС России по Красноярскому краю в Железнодорожном р-не гор. Красноярска</document_issuer>
+            </identity_doc>
+          </individual>
+        </right_holder>
+      </right_holders>
+    </right_record>
+  </right_records>
+  <restrict_records>
+    <restrict_record>
+      <record_info>
+        <registration_date>2019-09-02T10:23:17+03:00</registration_date>
+      </record_info>
+      <restrictions_encumbrances_data>
+        <restriction_encumbrance_number>77:17:0120316:6261-77/009/2019-1</restriction_encumbrance_number>
+        <restriction_encumbrance_type>
+          <code>022007000000</code>
+          <value>Ипотека</value>
+        </restriction_encumbrance_type>
+        <period>
+          <period_info>
+            <end_date>2024-08-23</end_date>
+            <deal_validity_time> по 23.08.2024</deal_validity_time>
+          </period_info>
+        </period>
+        <restricting_rights>
+          <restricting_right>
+            <number>77:17:0120316:6261-77.RTRIGHTS.E.1613015104001</number>
+            <right_number>77-77/008-77/008/027/2016-2415/1</right_number>
+          </restricting_right>
+        </restricting_rights>
+      </restrictions_encumbrances_data>
+      <right_holders>
+        <right_holder>
+          <legal_entity>
+            <entity>
+              <resident>
+                <name>Общество с ограниченной ответственностью микрокредитная компания "Ипотечный экспресс"</name>
+                <inn>7703462040</inn>
+              </resident>
+            </entity>
+          </legal_entity>
+        </right_holder>
+      </right_holders>
+      <underlying_documents>
+        <underlying_document>
+          <document_code>
+            <value>Иной документ</value>
+          </document_code>
+          <document_name>Договор ипотеки (залога недвижимого имущества)</document_name>
+          <document_number>1/0000040</document_number>
+          <document_date>2019-08-23</document_date>
+        </underlying_document>
+        <underlying_document>
+          <document_code>
+            <code>558401010213</code>
+            <value>Договор займа</value>
+          </document_code>
+          <document_name>Договор займа</document_name>
+          <document_number>1/0000040</document_number>
+          <document_date>2019-08-23</document_date>
+        </underlying_document>
+      </underlying_documents>
+    </restrict_record>
+  </restrict_records>
+  <recipient_statement>Широких Лариса Алексеевна</recipient_statement>
+  <status>Сведения об объекте недвижимости имеют статус "актуальные"</status>
+</extract_about_property_room>
